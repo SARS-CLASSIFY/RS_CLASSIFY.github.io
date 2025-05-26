@@ -1,9 +1,9 @@
 ---
-title: TCP/IP
+title: TCP AND UDP
 date: 2025-05-26 16:33:00 +0800
 categories: [协议及操作系统]
 tags: [网络协议, 操作系统]     
-description: TCP/IP 协议
+description: TCP/UDP 协议
 pin: true   #置顶帖子
 math: true
 mermaid: true
